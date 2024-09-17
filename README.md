@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quilted Jacket Frontend</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -32,8 +31,7 @@
     <p>Contributions are welcome! Please feel free to fork this repository, make changes, and submit a pull request.</p>
   </section>
   <h2>Sample Screenshot:</h2>
-  <img src="https://github.com/user-attachments/assets/cc5d0179-8bc2-4a04-8ef8-f7373d9c084f
-" alt="Sample screenshot">
+  <img src="https://github.com/user-attachments/assets/cc5d0179-8bc2-4a04-8ef8-f7373d9c084f" alt="Sample screenshot">
 
   <p>By - Sumanth DL</p>
 </body>
