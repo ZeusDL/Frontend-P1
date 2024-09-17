@@ -8,3 +8,6 @@ Technologies Used:
 
 <ol>HTML</ol>
 <ol>CSS</ol>
+
+
+This is my first project, after I learned my HTML and CSS.  
