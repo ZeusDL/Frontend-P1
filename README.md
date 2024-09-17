@@ -23,7 +23,7 @@
     <ol>
       <li>Clone this repository:</li>
       <pre>git clone https://github.com/ZeusDL/Frontend-P1</pre>
-      <li>Open the `index.html` file in your web browser.</li>
+      <li>Open the `index.html` file in your code editor.</li>
     </ol>
   </section>
   <section>
