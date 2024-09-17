@@ -10,4 +10,4 @@ Technologies Used:
 <ol>CSS</ol>
 
 
-This is my first project, after I learned my HTML and CSS.  
+This is my first project, after I learnt my HTML and CSS.  
