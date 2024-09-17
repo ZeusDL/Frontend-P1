@@ -3,33 +3,40 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Project</title>
+  <title>Quilted Jacket Frontend</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>My Project</h1>
-  <p>This is a project created by me. Feel free to explore its features and code.</p>
-  <p>**Technologies Used:**</p>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
+  <h1>Quilted Jacket Frontend</h1>
+  <section>
+    <h2>Project Overview</h2>
+    <p>This project is a frontend implementation of a quilted jacket product page. It showcases the jacket's design, provides product details, and allows users to add the item to their cart.</p>
+  </section>
+  <section>
+    <h2>Technologies Used</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript (optional, if used for dynamic features)</li>
     </ul>
-  <p>**Project Description:**</p>
-  <p></p>
-  <p>**Installation:**</p>
-  <ol>
-    <li>Clone the repository:</li>
-    <pre>git clone https://github.com/ZeusDL/Frontend-P1</pre>
-    <li>Open the project in your preferred code editor.</li>
-  </ol>
-  <p>**Usage:**</p>
-  <p></p>
-  <p>**Contributing:**</p>
-  <p>Contributions are welcome! Please follow these guidelines:</p>
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch.</li>
-    <li>Make your changes.</li>
-    <li>Submit a pull request.</li>
-  </ol>
+  </section>
+  <section>
+    <h2>Installation</h2>
+    <ol>
+      <li>Clone this repository:</li>
+      <pre>git clone https://github.com/your-username/quilted-jacket-frontend.git</pre>
+      <li>Navigate to the project directory:</li>
+      <pre>cd quilted-jacket-frontend</pre>
+      <li>Open the `index.html` file in your web browser.</li>
+    </ol>
+  </section>
+  <section>
+    <h2>Usage</h2>
+    <p>Explore the product page, view the jacket details, and click the "Add to Cart" button to simulate adding the item to a shopping cart.</p>
+  </section>
+  <section>
+    <h2>Contributing</h2>
+    <p>Contributions are welcome! Please feel free to fork this repository, make changes, and submit a pull request.</p>
+  </section>
 </body>
 </html>
